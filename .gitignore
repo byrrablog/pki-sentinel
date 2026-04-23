@@ -209,5 +209,5 @@ __marimo__/
 # --- Configuración PKI Sentinel ---
 pki_audit.log
 google_cert.pem
-# Si quieres que sample_cert.pem SI se vea en GitHub, no lo pongas aquí.
+
 
